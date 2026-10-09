@@ -1,6 +1,6 @@
 // ARQUIVO GERADO PELO atualizar.py a partir de dados/casos.json e dados/fora.json.
 // Não edite aqui: edite os JSON e rode  python atualizar.py --so-gerar
-const UPDATED = "8 de outubro de 2026";
+const UPDATED = "9 de outubro de 2026";
 const CASES = [
  {
   "id": "gassi",
@@ -19,7 +19,7 @@ const CASES = [
    "idadeA": 25,
    "local": "Residência da vítima",
    "meio": "Arma branca (faca)",
-   "filhos": "Sim - filho de 8 meses, presente no local",
+   "filhos": "Sim — filho de 8 meses, presente no local",
    "antecedentes": "Sem histórico criminal",
    "relacao": "Companheiro / ex-companheiro",
    "escV": "Superior completo (medicina)",
@@ -66,8 +66,8 @@ const CASES = [
    "idadeV": null,
    "idadeA": null,
    "local": "Residência do casal",
-   "meio": "Fogo (álcool - ameaça de incêndio)",
-   "filhos": "Sim - as duas filhas da vítima também eram alvo",
+   "meio": "Fogo (álcool — ameaça de incêndio)",
+   "filhos": "Sim — as duas filhas da vítima também eram alvo",
    "antecedentes": "Não informado",
    "relacao": "Companheiro",
    "escV": "Não informado",
@@ -103,7 +103,7 @@ const CASES = [
    "idadeA": 46,
    "local": "Residência da vítima",
    "meio": "Arma de fogo (pistola .380 da corporação)",
-   "filhos": "Sim - filha de 7 anos, presente no local",
+   "filhos": "Sim — filha de 7 anos, presente no local",
    "antecedentes": "Sem antecedentes criminais",
    "relacao": "Ex-namorado",
    "escV": "Não informado",
