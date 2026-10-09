@@ -1,0 +1,257 @@
+// ARQUIVO GERADO PELO atualizar.py a partir de dados/casos.json e dados/fora.json.
+// Não edite aqui: edite os JSON e rode  python atualizar.py --so-gerar
+const UPDATED = "8 de outubro de 2026";
+const CASES = [
+ {
+  "id": "gassi",
+  "tipo": "consumado",
+  "data": "2026-09-05",
+  "titulo": "Gassi Paola de Souza Mazia",
+  "onde": "Apartamento na Avenida Itororó, Zona 02",
+  "bairro": "ZONA 02",
+  "coords": [
+   -51.93342,
+   -23.43057
+  ],
+  "resumo": "Médica de 37 anos, morta a facadas no apartamento onde morava. O filho do casal, um bebê de oito meses, estava no imóvel. O suspeito foi localizado ferido horas depois em Mandaguari.",
+  "v": {
+   "idadeV": 37,
+   "idadeA": 25,
+   "local": "Residência da vítima",
+   "meio": "Arma branca (faca)",
+   "filhos": "Sim - filho de 8 meses, presente no local",
+   "antecedentes": "Sem histórico criminal",
+   "relacao": "Companheiro / ex-companheiro",
+   "escV": "Superior completo (medicina)",
+   "escA": "Superior completo (direito)",
+   "ocupA": "Advogado, assessor jurídico da Prefeitura de Marialva"
+  },
+  "status": "Denunciado pelo MPPR em 27/09/2026 por feminicídio (motivo torpe, meio cruel e recurso que dificultou a defesa) e abandono de incapaz. Segue preso na Cadeia Pública de Maringá. O laudo apontou 14 lesões por faca e sinais de esganadura.",
+  "fontes": [
+   {
+    "t": "Band",
+    "u": "https://www.band.com.br/nacional/pr/advogado-e-denunciado-por-feminicidio-de-medica-em-maringa"
+   },
+   {
+    "t": "NC News",
+    "u": "https://ncnews.com.br/2026/09/25/policia-conclui-inquerito-morte-medica-maringa/"
+   },
+   {
+    "t": "Notícias ao Minuto",
+    "u": "https://www.noticiasaominuto.com.br/justica/2413546/medica-morta-em-maringa-sofreu-14-facadas-e-esganadura-diz-laudo"
+   },
+   {
+    "t": "Maringá Manchete",
+    "u": "https://maringamanchete.com.br/feminicidio/"
+   },
+   {
+    "t": "Maringá Post",
+    "u": "https://maringapost.com.br/2026/09/12/feminicidio-em-maringa-agressores-tem-perfil-acima-de-qualquer-suspeita/"
+   }
+  ]
+ },
+ {
+  "id": "morangueira",
+  "tipo": "tentado",
+  "data": "2026-05-28",
+  "titulo": "Mulher e duas enteadas do agressor",
+  "onde": "Residência na Vila Morangueira",
+  "bairro": "VILA MORANGUEIRA",
+  "coords": [
+   -51.91327,
+   -23.41394
+  ],
+  "resumo": "O companheiro espalhou álcool pela casa e ameaçou matar a mulher e incendiar o imóvel com ela e as filhas dentro. Uma vizinha alertou a Guarda Civil Municipal, que encontrou um colchão encharcado de álcool.",
+  "v": {
+   "idadeV": null,
+   "idadeA": null,
+   "local": "Residência do casal",
+   "meio": "Fogo (álcool - ameaça de incêndio)",
+   "filhos": "Sim - as duas filhas da vítima também eram alvo",
+   "antecedentes": "Não informado",
+   "relacao": "Companheiro",
+   "escV": "Não informado",
+   "escA": "Não informado",
+   "ocupA": "Não informado"
+  },
+  "status": "Suspeito preso em flagrante pela Guarda Civil Municipal por tentativa de feminicídio.",
+  "fontes": [
+   {
+    "t": "Maringá Post",
+    "u": "https://maringapost.com.br/2026/05/28/gcm-impede-tentativa-de-feminicidio-e-incendio-na-vila-morangueira/"
+   },
+   {
+    "t": "André Almenara",
+    "u": "https://andrealmenara.com.br/2026/05/28/guarda-municipal-impede-possivel-feminicidio-e-prende-suspeito-na-vila-morangueira"
+   }
+  ]
+ },
+ {
+  "id": "jessica",
+  "tipo": "consumado",
+  "data": "2025-12-20",
+  "titulo": "Jéssica Daiane Cabral de Oliveira",
+  "onde": "Residência na Av. Francisco Sebrian Madrid, Conjunto Madrid",
+  "bairro": "LOTEAMENTO MADRID",
+  "coords": [
+   -51.91099,
+   -23.46394
+  ],
+  "resumo": "Morta a tiros de madrugada dentro de casa. O ex-namorado derrubou o portão com o carro e disparou seis vezes com a pistola da Guarda Municipal. A filha de 7 anos estava na casa. A polícia teve acesso a áudios em que ela pedia para ser deixada em paz e ele respondia que iria matá-la.",
+  "v": {
+   "idadeV": 30,
+   "idadeA": 46,
+   "local": "Residência da vítima",
+   "meio": "Arma de fogo (pistola .380 da corporação)",
+   "filhos": "Sim - filha de 7 anos, presente no local",
+   "antecedentes": "Sem antecedentes criminais",
+   "relacao": "Ex-namorado",
+   "escV": "Não informado",
+   "escA": "Não informado",
+   "ocupA": "Guarda civil municipal de Maringá"
+  },
+  "status": "Preso preventivamente desde 21/12/2025. Confessou o crime e o uso de cocaína. A prefeitura abriu processo de exoneração.",
+  "fontes": [
+   {
+    "t": "RIC",
+    "u": "https://ric.com.br/seguranca/guarda-municipal-feminicidio-maringa/"
+   },
+   {
+    "t": "Maringá Mais",
+    "u": "https://www.maringamais.com.br/2025/12/23/guarda-municipal-comete-feminicidio-em-maringa/"
+   },
+   {
+    "t": "GMC Online",
+    "u": "https://gmconline.com.br/noticias/policial/em-audiencia-de-custodia-guarda-civil-preso-por-feminicidio-em-maringa-admite-uso-de-cocaina/"
+   },
+   {
+    "t": "Maringá Post",
+    "u": "https://maringapost.com.br/policial/2026/01/03/prefeitura-de-maringa-ainda-nao-exonerou-agente-da-guarda-municipal-acusado-de-feminicidio-contra-ex-companheira/"
+   }
+  ],
+  "nota": "Uma das fontes situa o crime na zona norte; pela base oficial de loteamentos da prefeitura, o Loteamento Madrid fica na região sul da cidade."
+ },
+ {
+  "id": "oriental",
+  "tipo": "tentado",
+  "data": "2025-06-04",
+  "titulo": "Mulher, 47 anos",
+  "onde": "Residência no Jardim Oriental",
+  "bairro": "JARDIM ORIENTAL",
+  "coords": [
+   -51.9452,
+   -23.36932
+  ],
+  "resumo": "O então companheiro usou álcool, um acendedor de churrasqueira e um isqueiro para atear fogo nela. Ela se jogou na piscina, sofreu queimaduras em cerca de 30% do corpo e ficou mais de 40 dias internada. O ataque foi gravado por câmeras da casa.",
+  "v": {
+   "idadeV": 47,
+   "idadeA": null,
+   "local": "Residência do casal",
+   "meio": "Fogo (álcool e isqueiro)",
+   "filhos": "Não informado",
+   "antecedentes": "Não informado",
+   "relacao": "Companheiro / ex-companheiro",
+   "escV": "Não informado",
+   "escA": "Não informado",
+   "ocupA": "Não informado"
+  },
+  "status": "Denunciado por tentativa de feminicídio. Em 15/05/2026 o TJ-PR reclassificou o crime para lesão corporal grave; o Ministério Público anunciou recurso. O acusado segue preso preventivamente.",
+  "fontes": [
+   {
+    "t": "André Almenara",
+    "u": "https://andrealmenara.com.br/2026/05/21/justica-desclassifica-acusacao-de-tentativa-de-feminicidio-em-caso-de-mulher-incendiada-em-maringa"
+   },
+   {
+    "t": "O Fato Maringá",
+    "u": "https://ofatomaringa.com/homem-que-ateou-fogo-em-mulher-em-maringa-nao-respondera-por-tentativa-de-feminicidio"
+   }
+  ]
+ },
+ {
+  "id": "pamela",
+  "tipo": "tentado",
+  "data": "2025-05-18",
+  "titulo": "Mulher, 33 anos",
+  "onde": "Bairro não informado",
+  "coords": null,
+  "resumo": "Esfaqueada pelo marido depois de uma discussão. Um golpe nas costas atingiu o pulmão e outro feriu gravemente a mão. Foi levada ao pronto-socorro da Santa Casa.",
+  "v": {
+   "idadeV": 33,
+   "idadeA": null,
+   "local": "Não informado",
+   "meio": "Arma branca (faca)",
+   "filhos": "Não informado",
+   "antecedentes": "Não informado",
+   "relacao": "Marido",
+   "escV": "Não informado",
+   "escA": "Não informado",
+   "ocupA": "Não informado"
+  },
+  "status": "Suspeito não havia sido localizado até a publicação da reportagem.",
+  "fontes": [
+   {
+    "t": "Maringá Post",
+    "u": "https://maringapost.com.br/policial/2025/05/19/tentativa-de-feminicidio-homem-esfaqueia-esposa-durante-discussao-em-maringa/"
+   }
+  ]
+ },
+ {
+  "id": "neybraga",
+  "tipo": "tentado",
+  "data": "2025-04-06",
+  "titulo": "Mulher, 60 anos",
+  "onde": "Conjunto Ney Braga",
+  "bairro": "CONJUNTO RESIDENCIAL GOVERNADOR NEY BRAGA",
+  "coords": [
+   -51.96817,
+   -23.39516
+  ],
+  "resumo": "Esfaqueada nas costas pelo ex-marido numa tarde de domingo. Segundo a polícia, ele não aceitava o fim do relacionamento.",
+  "v": {
+   "idadeV": 60,
+   "idadeA": null,
+   "local": "Não informado",
+   "meio": "Arma branca (faca)",
+   "filhos": "Não informado",
+   "antecedentes": "Não informado",
+   "relacao": "Ex-marido",
+   "escV": "Não informado",
+   "escA": "Não informado",
+   "ocupA": "Não informado"
+  },
+  "status": "Preso em flagrante.",
+  "fontes": [
+   {
+    "t": "Maringá Post",
+    "u": "https://maringapost.com.br/policial/2025/04/07/tentativa-de-feminicidio-mulher-de-60-anos-e-esfaqueada-nas-costas-pelo-ex-marido-em-maringa/"
+   }
+  ]
+ }
+];
+const OUTSIDE = [
+ {
+  "q": "Tentativa em Paiçandu, 17/09/2026",
+  "w": "Crime no Jardim Primavera, em Paiçandu. Fora do município.",
+  "u": "https://maringapost.com.br/2026/09/17/mulher-de-origem-estrangeira-e-vitima-de-tentativa-de-feminicidio-em-paicandu-agressor-foi-preso/"
+ },
+ {
+  "q": "Fabiane Osmundo de Souza Campana, 24/09/2025",
+  "w": "Crime em Sarandi, Jardim Panorama. Fora do município.",
+  "u": "https://sites.uel.br/lesfem/memorial-de-vitimas-de-feminicidio-no-parana/memorial-de-vitimas-de-feminicidio-no-parana-2025/"
+ },
+ {
+  "q": "Daniela Arduini, 15/08/2025",
+  "w": "Crime em Paiçandu. Fora do município, embora parte da imprensa cite Maringá.",
+  "u": "https://cbnmaringa.com.br/noticia/apos-crime-de-feminicidio-suspeito-e-preso-em-bar-de-maringa/"
+ },
+ {
+  "q": "Rosimara Adriana Manthay, 17/04/2025",
+  "w": "Crime em Nova Esperança. O suspeito se entregou em Maringá, o que levou a manchetes com o nome da cidade.",
+  "u": "https://sites.uel.br/lesfem/memorial-de-vitimas-de-feminicidio-no-parana/memorial-de-vitimas-de-feminicidio-no-parana-2025/"
+ },
+ {
+  "q": "Daiane Cláudia da Silva, 05/03/2024",
+  "w": "Crime em Maringá, mas antes de outubro de 2024. Fora do recorte temporal.",
+  "u": "https://maringapost.com.br/2026/08/25/justica-decreta-prisao-de-homem-suspeito-de-espancar-companheira-ate-a-morte-e-abandona-la-em-upa-de-maringa/"
+ }
+];
