@@ -1,6 +1,6 @@
 // ARQUIVO GERADO PELO atualizar.py a partir de dados/casos.json e dados/fora.json.
 // Não edite aqui: edite os JSON e rode  python atualizar.py --so-gerar
-const UPDATED = "9 de outubro de 2026";
+const UPDATED = "10 de outubro de 2026";
 const CASES = [
  {
   "id": "gassi",
