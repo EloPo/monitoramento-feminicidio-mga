@@ -2,7 +2,7 @@ name: Atualizar monitor
 
 on:
   schedule:
-    - cron: "50 9 * * *"   # todos os dias às 6h50 de Brasília (9h50 UTC)
+        - cron: "7 3 * * *"    # todos os dias à 0h07 de Brasília (3h07 UTC)
   workflow_dispatch:        # botão "Run workflow" para rodar na hora
 
 permissions:
