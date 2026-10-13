@@ -1,6 +1,6 @@
-# Coleta de 11 de outubro de 2026
+# Coleta de 13 de outubro de 2026
 
-Notícias analisadas: 4
+Notícias analisadas: 13
 
 ## Casos novos incluídos
 - nenhum
