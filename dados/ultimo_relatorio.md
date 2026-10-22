@@ -1,6 +1,6 @@
-# Coleta de 21 de outubro de 2026
+# Coleta de 22 de outubro de 2026
 
-Notícias analisadas: 6
+Notícias analisadas: 4
 
 ## Casos novos incluídos
 - nenhum
