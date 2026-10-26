@@ -1,4 +1,4 @@
-# Coleta de 25 de outubro de 2026
+# Coleta de 26 de outubro de 2026
 
 Notícias analisadas: 2
 
