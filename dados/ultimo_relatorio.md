@@ -1,4 +1,4 @@
-# Coleta de 31 de outubro de 2026
+# Coleta de 1 de novembro de 2026
 
 Notícias analisadas: 0
 
