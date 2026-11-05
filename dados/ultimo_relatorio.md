@@ -1,6 +1,6 @@
-# Coleta de 4 de novembro de 2026
+# Coleta de 5 de novembro de 2026
 
-Notícias analisadas: 6
+Notícias analisadas: 8
 
 ## Casos novos incluídos
 - nenhum
