@@ -1,4 +1,4 @@
-# Coleta de 11 de novembro de 2026
+# Coleta de 12 de novembro de 2026
 
 Notícias analisadas: 1
 
