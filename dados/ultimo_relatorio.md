@@ -1,4 +1,4 @@
-# Coleta de 16 de novembro de 2026
+# Coleta de 17 de novembro de 2026
 
 Notícias analisadas: 0
 
