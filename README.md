@@ -3,6 +3,9 @@
 Este pacote atualiza o site todos os dias, sozinho, com notícias de feminicídio consumado ou tentado
 ocorrido **dentro do município de Maringá**, de 1º de outubro de 2024 até a data da coleta.
 
+![Mapeamento de casos de Feminicídio em Maringá](MAPA.png)
+
+
 
 **Onde mexer para cada tipo de mudança:**
 
