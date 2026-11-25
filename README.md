@@ -86,5 +86,7 @@ pelo site e esperar a coleta do dia seguinte, ou rodar o workflow.
 
 - O script depende de a notícia ser publicada. Tentativas pouco noticiadas podem não aparecer.
 - Escolaridade e antecedentes raramente aparecem na imprensa; ficam como "Não informado".
-- A classificação é automática. Confira o relatório de vez em quando, principalmente a seção
-  "Para você conferir", antes de usar os números no TCC.
+- A classificação é automática.
+
+Este projeto é desenvolvido de forma voluntária para pesquisas acadêmicas na área do Direito, Sociologia e Tecnologia.
+Autoria Eloisa Potrich e Luis Geraldo do Carmo Gomes.
