@@ -1,6 +1,6 @@
-# Coleta de 25 de novembro de 2026
+# Coleta de 26 de novembro de 2026
 
-Notícias analisadas: 22
+Notícias analisadas: 5
 
 ## Casos novos incluídos
 - nenhum
